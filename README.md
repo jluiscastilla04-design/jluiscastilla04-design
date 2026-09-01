@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 👨‍💻 Currently strengthening my knowledge of software development using TypeScript and object-oriented programming.
-- 📚 Learning everything about Frontend and Backend technologies 😅
+- 📚 Learning everything about Frontend and Backend technologies 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 🚀 Developing projects to improve my skills in programming, software design, and development best practices.
 - 🎓 Systems Engineering student, focused on strengthening my skills as a software developer.
